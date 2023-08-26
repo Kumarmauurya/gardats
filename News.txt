@@ -1,5 +1,6 @@
 Importantn Notess!!!!!!!
 
+All Debit card not working in ac sleeper book karne se pehle ek baar test kar le agar koi update hai to ham ise jaldi hi update kar denge.
 Super login aur web login ko pehle se fast kiya gaya hai...
 
 SBI AUR ICICI ko sahi kar diya gaya hai jo bugss the ab ap in banks ko sms uploader ke through use kar sakte hai fast gateway))
