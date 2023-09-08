@@ -1,17 +1,14 @@
 Importantn Notess!!!!!!!
 
-Booking ka screenshot kisi ko bhi share na kare apki safety banaye rakhe apne booking ka screenshot kisi ko bhi na de.
+VPN Option feature added is option ko o log use jiske aws ya pc me irctc block hai ya jo log apne normal home ip par ticket nahi banana chahte hai
 
-Safety ke saath kaam kare.
+Is option ko tick karne par apko ip dalna hoga ip check karke save kar de ip add hote hi us pc me slot 1 and 2 par apki ohi ip lag jayegi jo apne enter ki hai matlab apka home ip change ho jayega us ip se jo apne enter ki hai.
 
-ALl login mix karke login kare.
+Booking process ko optimize kiya gaya hai jada pair login kare fast results ke liye all login ko mix karke login kare.
 
-SBI bank ka istemal kare for fast pnr
+Jinke aws block aur unke pc me availability nahi show hoti wo availability from disha par tick karke aailbility dekh sakte hai.
 
-Ipayupi , hdfcupi , otopay in upi gateway ko use kare fast results ke liye.
-Scan payment ka bhi istemal kar sakte hai fast pnr ke liye jaise eazebuzz , airpay , Phonepeqr , paytmqr.
-
-More features coming in next update.
+Kam security ka dhyan rakhte hue kare safe rahe.
 
 
 Thanks
