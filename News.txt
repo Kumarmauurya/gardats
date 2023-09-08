@@ -10,6 +10,8 @@ Jinke aws block aur unke pc me availability nahi show hoti wo availability from 
 
 Kam security ka dhyan rakhte hue kare safe rahe.
 
+Ek id ko ek hi PC me use kare warna booking ke time software automatically close ho jayega.
+
 
 Thanks
 GADAR Team.
