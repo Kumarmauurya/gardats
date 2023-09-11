@@ -1,5 +1,7 @@
 Importantn Notess!!!!!!!
 
+Print PDF ko naye irctc design ke hisab se fix kar diya gaya hai all users se request hai o software jarur update kar le agar software update nahi hua hai new pdf use kijiye kyuki irctc ne pdf change kar diya hai.
+
 VPN Option feature added is option ko o log use jiske aws ya pc me irctc block hai ya jo log apne normal home ip par ticket nahi banana chahte hai
 
 Is option ko tick karne par apko ip dalna hoga ip check karke save kar de ip add hote hi us pc me slot 1 and 2 par apki ohi ip lag jayegi jo apne enter ki hai matlab apka home ip change ho jayega us ip se jo apne enter ki hai.
