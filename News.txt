@@ -1,5 +1,7 @@
 Importantn Notess!!!!!!!
 
+((Very Important Update agar aj apka software update nahi hua hai to gadarts.com se updater download kare aur updater ko apne gadar ke folder me rakh kar run kar le taki apka software update ho jaye kyuki hamne software me kafi internal changes kiye hai jis wajah se all users ka software update hona bahhot jaruri hai.))
+
 Print PDF ko naye irctc design ke hisab se fix kar diya gaya hai all users se request hai o software jarur update kar le agar software update nahi hua hai new pdf use kijiye kyuki irctc ne pdf change kar diya hai.
 
 VPN Option feature added is option ko o log use jiske aws ya pc me irctc block hai ya jo log apne normal home ip par ticket nahi banana chahte hai
