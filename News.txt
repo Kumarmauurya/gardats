@@ -10,6 +10,8 @@ Apse request hai ap booking ke liye all login mix karke login kare isse apka res
 
 Disha Login me bhi upi bypass full work karega.
 
+Agar software auto update nahi hua hai to ise aap updater ke through update kar le.
+
 
 Thanks
 GADAR Team.
