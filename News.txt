@@ -1,31 +1,19 @@
-Importantn Notess!!!!!!!
 
-SBI NB AUR HDFC NB ko app , app2 and super login me fix kar diya gaya hai jinka hdfc pehle se bypass hai une naya bypass karne ka jarurt nahi hai direct ap use kar sakte hai.
+HDFC_DC KO HAMNE UPDATE KAR DIYA THA PEHLE HI AUR APKO BATAY GAYA THA KE HDFC BANK NE APNE KUCH CARDS SE 3D STATIC PASSWORD KO DISBALE KAR DIYA HAI ISLIYE JISKE CARD PE 3D PASSWORD DISABLED HAI O JAB HDFC_DEBIT CARD USE KARENGE TO OTP AYEGA JO KE AP SMS UPLOADER KE THROUGH AUTO READ KAR SAKTE AHI.
 
-PAYTM_DC KO SAHI KAR DIYA GAYA HAI DONO AP SMS UPLOADER KE MADHYAM SE USE KAR SAKTE HAI.
+JIN USERS KE HDFC CARD PE 3D PASSWORD AB TAK ACTIVE HAI WO APNA CARD BINDAS PEHLE JAISE USE KAR SAKTE HAI JO KE PURI TARAH SE BYPASS RAHEGA ISLIYE APSE REQUEST HAI KI AGAR APKO CHECK KARNA HAI APKE CARD PAR 3D PASSWORD ACTIVE HAI YA NAHI TO AP EK NORMAL CHOTE ROUTE KA TICKET BOOK KARKE DEKH SAKTE HAI.
 
-HDFC_DC BYPASS METHOD UPDATE KAR DIYA GAYA HAI AP SAB SOFTWARE JARUR UPDATE KAR LE HDFC_DC METHOD BYPASS KE LIYE YAHA PAR VISIT KARE https://tinyurl.com/hdfcDC  JO YE MTHOD FOLLOW KAREGA USKA HDFC OTP BYPASS RAHEGA BAKI LOGO KA OTP READER KE THROUGH USE KAR SAKTE HAI.
+AP USERS NETSAFE KE CARDS KO BHI PURA TAHA SE BYPASS USE KAR SAKTE HAI.
 
-Hdfc_Dc ne Payment par otp mandatory kar diya hai islye hdfc_dc ko otp reader ke through update kiya gaya hai ap sab jinhe hdfc_dc use karna hai wo sms uploader apne phone me install kar le jisse apka hdfc_Dc ka otp instant read ho jaye.
+PAYZAP_DC , PAYTM_DC , NSDL PREPAID CARD WORKING FINE.
 
-Payzap_Dc slide se work karega ye bahot fast payment gateway hai ap sab ise jarur use kare usme koi otp nahi hai only apko payzapp app se slide karna hoga.
+HDFC_NB PURI TARAH SE BYPASS HAI AUR SBI_NB KO OTP READER KE THROUGH BYPASS KIYA GAYA HAI.
 
-Nsdl_Dc ko bhi fix kar diya gaya hai isko ap pehle ki tarah use kar sakte hai. Baki debit cards ko aaj ke update me sahi kar diya jayega.
+FAST UPI ME APLOG CASHFREEUPI , IPAYUPI , OTOPAY , HDFCUPI , PHONEPE IN UPI KA ISTEMAL KARE AUR AP IN UPI KO AXIS KE THROUGH PURI TARAH BYPASS KAR SAKTE HAI ISSE APKA PAYMENT AUTO HOGA.IPAYUPI KA RESPONSE AXIS BYPASS ME BAHOT FAST HAI.  JIN USERS KE AXIS KE 5UPI BYPASS AB TAK NAHI MILE WO EK BAAR DOBARA SE AXIS KO BYPASS KAR LE.
 
-IPAYUPI & OTOPAY upi axis Bypass use kijiye very fast payment response and fast PNR
+QR PAUMENT KA BHI ISTEMAL KARE JAISE AIRPAYQR , PHONEPEQR , PAYTMQR AND EAZEBUZZQR.
 
-Cashfreeupi response manual upi me fast hai ap use kar sakte hai app , app2 and super login me 0% load upi with fast response.
+AP USERS SE REQUEST HAI SARE LOGINS KO MIX KAR LOGIN KARE.APP , WEB , APP2 AND SUPER SARE LOGIN KO MIX KARKE LOGIN KARE.
 
-Axis bhim ko ap dobara bypass kar le dobara bypass karne se apke bank me Bhimupi , hdfcupi , OTOPAY , Phonepe and ipayupi aise 5 upis add hongi jinhe ap booking ke time use kar sakte hai kyuki bhimupi ke server per load jada hai isliye hamne 5 server ke through axis bypass kar diya hai.
+KUCH LOGO KA HDFC NETBANKING NAYE INTERACE ME UPDATE HO GAYA JIS WAJAH SE WO HDFC NETBANKING BYPASS NAHI KAR PATE HAI UNSE REQUEST HAI AP NEXT UPDATE KA WAIT KARE NEXT UPDATE ME USE BHI FIX KAR DIYA JAYEGA.
 
-New PDf fully updated hai.
-
-Apse request hai ap booking ke liye all login mix karke login kare isse apka response accha hoga ac me app2 and sleeper me super login ka response accha hai but apse request hai aap all login ko mix karke hi login kare.
-
-Disha Login me bhi upi bypass full work karega.
-
-Agar software auto update nahi hua hai to ise aap updater ke through update kar le.
-
-
-Thanks
-GADAR Team.
