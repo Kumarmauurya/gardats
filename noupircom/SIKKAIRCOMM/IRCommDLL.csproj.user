@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="bmk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCaptcha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmQr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Update="FrmQr.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Update="IRCommDLL\MessageU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IRCommDLL\reCaptcha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
