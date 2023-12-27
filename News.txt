@@ -1,3 +1,13 @@
+Jinka Software Update nahi hua wo manually updater download karke software update kar le.
+
+PAYUUPIJUSPAY Payment gateway update kiya gaya hai ap add payment gateway par jakar Gateway me juspay select kare aur payuupijuspay par apki koi bhi upi save kar le..
+
+Ham all users se request karenge agar ap manual upi gateway use karte hai to ye gateway jarur use kare is gateway se apka PNR hit fast hoga aur apki wo window payment par bhi fast jayega.
+
+Juspay Irctc dwara aane wala ek advance payment gateway hai jise irctc dheere dheere apne app par update kar rahi hai us update ko dekhte hue ham bhi ise timely update kor denge.
+
+Bhim axis Bypass 100% working hai ap byppass aur use dono kar skate hai ham bata de apse ki bhim axis one time par one payment hi kare ek bypass se multiple payment karne se apka booking fail ho sakta hai.
+
 Other Software Backup ab ap gadar me kar sakte hai.
 
 Best results ke liye ek ip pe only 3-4 login kare.
