@@ -1,7 +1,8 @@
 
+HDFC_NB AUR NEWHDFC KO AUR BHI FAST KAR DIYA GAYA HAI AB ISSE AAP TICKET AUR BHI FAST BANA SAKTE HAI.AGAR NETBANKING USE KARNE ME KOI PROBLEM ATA HAI TO DELETE KARKE DOBARA SAVE KAR LE.
 Ap users se request hai ki ap login limit ko koi bhi changes na kare bus itna dhyan rakhe ki ap 1 and 2 pe unlimited pair aur login kar sakte hai apse request hai jo login limit bydefault hai use changes na kare agar ap aisa karte hai to apko logout issue face karna pad sakte hai.
 
-fast payment aur pnr ke liye use kaare PAYUUPI and RAZORPAYUPI.
+Fast payment aur pnr ke liye use kaare PAYUUPI and RAZORPAYUPI.
 
 Fast Payment aur PNR ke liye PAYUUPI aur RAZORPAYUPI ka istemal jarur kare sabse fast PNR milega kyuki in gateway ko hamne juspay se route kar diya hai
 
