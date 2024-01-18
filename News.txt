@@ -1,25 +1,20 @@
-Jinka Software Update nahi hua wo manually updater download karke software update kar le.
 
-PAYUUPIJUSPAY Payment gateway update kiya gaya hai ap add payment gateway par jakar Gateway me juspay select kare aur payuupijuspay par apki koi bhi upi save kar le..
+Ap users se request hai ki ap login limit ko koi bhi changes na kare bus itna dhyan rakhe ki ap 1 and 2 pe unlimited pair aur login kar sakte hai apse request hai jo login limit bydefault hai use changes na kare agar ap aisa karte hai to apko logout issue face karna pad sakte hai.
 
-Ham all users se request karenge agar ap manual upi gateway use karte hai to ye gateway jarur use kare is gateway se apka PNR hit fast hoga aur apki wo window payment par bhi fast jayega.
+fast payment aur pnr ke liye use kaare PAYUUPI and RAZORPAYUPI.
 
-Juspay Irctc dwara aane wala ek advance payment gateway hai jise irctc dheere dheere apne app par update kar rahi hai us update ko dekhte hue ham bhi ise timely update kor denge.
+Fast Payment aur PNR ke liye PAYUUPI aur RAZORPAYUPI ka istemal jarur kare sabse fast PNR milega kyuki in gateway ko hamne juspay se route kar diya hai
 
-Bhim axis Bypass 100% working hai ap byppass aur use dono kar skate hai ham bata de apse ki bhim axis one time par one payment hi kare ek bypass se multiple payment karne se apka booking fail ho sakta hai.
+Unlimited Pair option kar diya gaya hai, (1 aur 2 slot ke first 4 pair aapke home IP se login honge, baki ke All pair hamare fast server se login honge jo hamare fast server se login honge uske availablity wali Patti yellow color ki ho jayegi,,,,,
+Baki aap jo extra ip add karenge 3/4, 5/6 ispe sirf 4 Pair hi login kare, Unlimited pair only 1/2 slot pe hi honge.
 
-Other Software Backup ab ap gadar me kar sakte hai.
+Razorpayupi & Payuupi ko juspay ke through kar diya gaya hai isme aapke fail hone ke chances 0 hai Fast payment ke liye ye upi use kare.
 
-Best results ke liye ek ip pe only 3-4 login kare.
+Bhimupi me aane wale error ko solve karke aur fast kiya gaya hai.
 
-har pair login 30 sec ke difference pe kare ek saath all pair login na kare.
+QR Payment ko pay karne ke baad ab aapko kahi click nahi karna hai payment ke baad wo auto close hoke PNR de dega.
 
-Availability issue ko fix kar diya gaya hai.
+Payuupijuspay ko bugs ko fix karke aur fast kiya gaya hai.
 
-Change password issue ko bhi fix kiya gaya hai apse request hai password change ap booking ke time na kare aur password change ke pass software jarur restart kare.
+Performance ko aur fast kiya gaya hai.
 
-Jin users ko payment par unable to process ka error aa raha hai wo users se request hai apne irctc id ke password ko change kar le.
-
-Login limit 4 ki gayi hai apse request hai ki super login , app, login web login and app2 sare login mix login kare.
-
-fast payment gateway ka istemal kare jisse apki booking fast ho.
