@@ -1,4 +1,5 @@
 
+All Bugs Fixed!!
 HDFC_DC KO SAHI KAR DIYA GAYA HAI
 Fast payment aur pnr ke liye use kaare PAYUUPI and RAZORPAYUPI.
 
