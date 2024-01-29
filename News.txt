@@ -1,20 +1,13 @@
+Ab Gadar Open karne par ap ko ek password set karne ka option ayega ye wo password hoga jise ap next time gadar open karne ke liye use karenge isliye jab ap password set kare to us password ko dhyan me rakh le aur kahi note kar le ye feature hamne user ki saferty ko dekhte hue kiya hai jo log vps use karte hai aur unka data insecure hota hai.
 
-All Bugs Fixed!!
-HDFC_DC KO SAHI KAR DIYA GAYA HAI
-Fast payment aur pnr ke liye use kaare PAYUUPI and RAZORPAYUPI.
+HDFC_DC ko ap agar chahe to ipay gateway se use kar sakte hai agar apko hdfc_dc use karne me koi error ho raha hai
 
-Fast Payment aur PNR ke liye PAYUUPI aur RAZORPAYUPI ka istemal jarur kare sabse fast PNR milega kyuki in gateway ko hamne juspay se route kar diya hai
+HDFC_NB ko bhi ap agar chahe to PAYU ke through use kar sakte hai iske liye apko data me option diya gaya hai.
 
-Unlimited Pair option kar diya gaya hai, (1 aur 2 slot ke first 4 pair aapke home IP se login honge, baki ke All pair hamare fast server se login honge jo hamare fast server se login honge uske availablity wali Patti yellow color ki ho jayegi,,,,,
-Baki aap jo extra ip add karenge 3/4, 5/6 ispe sirf 4 Pair hi login kare, Unlimited pair only 1/2 slot pe hi honge.
+NEWHDFC ap auto bypass kar sakte hai.
 
-Razorpayupi & Payuupi ko juspay ke through kar diya gaya hai isme aapke fail hone ke chances 0 hai Fast payment ke liye ye upi use kare.
+Irctc id create ko sahi kar diya gaya hai.
 
-Bhimupi me aane wale error ko solve karke aur fast kiya gaya hai.
+Blocked vps par gadar only booking form ke liye yani 8 baje , 10 baje aur 11 baje hi work karega usse pehle ap test na kare blocked vps me gadar ap bina ip ya proxifier ke chala sakte hai..
 
-QR Payment ko pay karne ke baad ab aapko kahi click nahi karna hai payment ke baad wo auto close hoke PNR de dega.
-
-Payuupijuspay ko bugs ko fix karke aur fast kiya gaya hai.
-
-Performance ko aur fast kiya gaya hai.
-
+Agar aj yani 30/01/2024 ko apka software update nahi hua hai to ise jarur update kar le updater hamari site gadarts.com par available hai.
