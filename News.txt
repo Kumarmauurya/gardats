@@ -1,3 +1,6 @@
+Close wale option ko solve kar diya gaya hai,
+Mobikwik getway ko sahi kiya gaya hai iska otp SMS uploader ke through read hoga, fast getway ke liye use kar sakte hai
+
 Ab Gadar Open karne par ap ko ek password set karne ka option ayega ye wo password hoga jise ap next time gadar open karne ke liye use karenge isliye jab ap password set kare to us password ko dhyan me rakh le aur kahi note kar le ye feature hamne user ki saferty ko dekhte hue kiya hai jo log vps use karte hai aur unka data insecure hota hai.
 
 HDFC_DC ko ap agar chahe to ipay gateway se use kar sakte hai agar apko hdfc_dc use karne me koi error ho raha hai
