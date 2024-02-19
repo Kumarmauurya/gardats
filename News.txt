@@ -1,16 +1,12 @@
-Close wale option ko solve kar diya gaya hai,
-Mobikwik getway ko sahi kiya gaya hai iska otp SMS uploader ke through read hoga, fast getway ke liye use kar sakte hai
+Bhim Bypass update kar diya gaya hai..
 
-Ab Gadar Open karne par ap ko ek password set karne ka option ayega ye wo password hoga jise ap next time gadar open karne ke liye use karenge isliye jab ap password set kare to us password ko dhyan me rakh le aur kahi note kar le ye feature hamne user ki saferty ko dekhte hue kiya hai jo log vps use karte hai aur unka data insecure hota hai.
+Dhyan rahe ek bypass se ek time par ek hi ticket book kare filhal next update tak ham isko increase kar denge-- is cheez ka khas khayal rakhe onetime one payment ek sucess hone par hi dusra kare.
 
-HDFC_DC ko ap agar chahe to ipay gateway se use kar sakte hai agar apko hdfc_dc use karne me koi error ho raha hai
+Bypass se pehle steps jarur padhe.
 
-HDFC_NB ko bhi ap agar chahe to PAYU ke through use kar sakte hai iske liye apko data me option diya gaya hai.
+Koi error aye to apne seller dwara hame bataye.
 
-NEWHDFC ap auto bypass kar sakte hai.
+Bypass karne se apke bank me OTOPAY , IPAY , BHIM ye 3 bank ke upi save honge inme se ap jo chahe use kar sakte hai BHIMUPI use kare uska result accha hai..
 
-Irctc id create ko sahi kar diya gaya hai.
 
-Blocked vps par gadar only booking form ke liye yani 8 baje , 10 baje aur 11 baje hi work karega usse pehle ap test na kare blocked vps me gadar ap bina ip ya proxifier ke chala sakte hai..
-
-Agar aj yani 30/01/2024 ko apka software update nahi hua hai to ise jarur update kar le updater hamari site gadarts.com par available hai.
+Note BhimAxis aur is bypass ka koi connection nahi hai ap chahe to dono ek saath chala sakte hai...
