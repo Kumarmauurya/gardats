@@ -1,6 +1,8 @@
-Bhim Bypass update kar diya gaya hai..
+Upi Bypass se payment rukne wale issue ko fix ka diya gaya hai..
 
-Dhyan rahe ek bypass se ek time par ek hi ticket book kare filhal next update tak ham isko increase kar denge-- is cheez ka khas khayal rakhe onetime one payment ek sucess hone par hi dusra kare.
+Agar apko hdfc_dc par koi issue aa raha hai to ap user data me jakar hdfc dc from i_pay par tick karle.
+
+Bhim Bypass update kar diya gaya hai..
 
 Bypass se pehle steps jarur padhe.
 
@@ -8,5 +10,6 @@ Koi error aye to apne seller dwara hame bataye.
 
 Bypass karne se apke bank me OTOPAY , IPAY , BHIM ye 3 bank ke upi save honge inme se ap jo chahe use kar sakte hai BHIMUPI use kare uska result accha hai..
 
-
 Note BhimAxis aur is bypass ka koi connection nahi hai ap chahe to dono ek saath chala sakte hai...
+
+Note:-  Big update coming soon>>> stay connected.
