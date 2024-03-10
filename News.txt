@@ -1,4 +1,8 @@
-(All users aaj (04-03-2024) software jaroor update kar le agar ye auto update nahi hota hai to...Security updates kiye gaye hai isliye all users ka update hona jaruri hai))
+Freecharge upi bypass ko aur bhi fast kiya gaya hai all users se reuqest ai jo bhim axis use kar rahe hai wo pehle apke bhim axis se balance check kar le agar balance check ho raha hai to hi ticket lagaye us bypass se.
+
+Fast booking ke liye data me jaye aur submit one pair per form par tick kare isse apka only one form payment par hoga baki stop ho jayege aur ye karne se apki id kam disable hogi aur booking fast hogi...
+
+Ap irctc id banate wakt left top karne par option pe tick kar de IRctc registration from connect app par jarur tick karke id banaye.
 
 Irctc Id create ke issue ko fix kiya gaya hai ap irctc id bana sakte hai jisse disable cahnces bahot kam honge.
 
