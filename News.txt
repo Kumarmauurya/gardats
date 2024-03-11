@@ -1,16 +1,13 @@
-Freecharge upi bypass ko aur bhi fast kiya gaya hai all users se reuqest ai jo bhim axis use kar rahe hai wo pehle apke bhim axis se balance check kar le agar balance check ho raha hai to hi ticket lagaye us bypass se.
+All Problem ko fix kar diya gaya hai all users agar apka software auto update nahi hua hai to ise update jarur kar le.
 
-Fast booking ke liye data me jaye aur submit one pair per form par tick kare isse apka only one form payment par hoga baki stop ho jayege aur ye karne se apki id kam disable hogi aur booking fast hogi...
+Phonpe Upi bypass ko pehle se bahot fast kar diya gaya hai ap ise use kar sakte hai.
 
-Ap irctc id banate wakt left top karne par option pe tick kar de IRctc registration from connect app par jarur tick karke id banaye.
+Freecharge me bhimupi ko aur fast kiya gaya hai ap jada se jada phonepe bypass aur freecharge bypass ka istemal kare.
 
-Irctc Id create ke issue ko fix kiya gaya hai ap irctc id bana sakte hai jisse disable cahnces bahot kam honge.
+Coroporate yes rupay jo ke ek virutal card hai use bhi add kiya gaya hai is card ko ap online buy kar sakte hai.
 
-Freecahgre upi ko aur fast kiya gaya hai jin users ko freecharge upi me dikkat ho raha hai o log fir se bypass kar le.
+hdfc_dc ko web login me fix kiya gaya hai aur web login ko aur bhi fast kiya gaya hai.
 
-Sabse fast Gateway Sbi iska ap jada se jada istemal kare.
+Ap virtual cards jaise nsdl , nsdl_rupay , icici_virtual , corporate yes in cards o buy kare aur istemal kare for fast results.
 
-Pair kam se am open kare aur sare login mix kare.
-
-Booking se pehle ccleaner run kar le.
-
+All users ki validity bhi 2 days extend ki gayi hai..
