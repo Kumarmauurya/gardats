@@ -1,3 +1,7 @@
+Proxifier aap gadar ke sath istemal kar sakte hai.... aws me hang issue ko fix kar diya gaya hai... Phonepe upi bypass me Ipayupi ko fix aur fast kar diya gaya hai...... Phonepe Gateway me aane wale error ko solve kar diya gaya hai ap freecharge upi bypass ko phonepe gateway me save karke use kar sakte hai.
+
+Vpn only booking ke ime work karega yani sirf booking form hi blocked vps me vn se login honge baki time ye unactive rahega.
+
 1 form ke 10 pair open kar sakte hai apse request hai all login mix hi login kare app , app2 , web and super ye sare login ap mix login kare.
 
 Dear users apse request hai ap alag alag upi gateway ka istemal kare jaise agar apne ek ticket Phonepe lagay hai to dusra razorpay lagaye ya eazebuzz upi lagaye ya ap cashfreeupi lagaye ya fir Ipayupi ya ap HDFCUPI laga sakte hai jisse apka booking ka chance jada hoga isliye har form ke liye alag alag gateway ka istemal kare.
@@ -19,5 +23,3 @@ Coroporate yes rupay jo ke ek virutal card hai use bhi add kiya gaya hai is card
 hdfc_dc ko web login me fix kiya gaya hai aur web login ko aur bhi fast kiya gaya hai.
 
 Ap virtual cards jaise nsdl , nsdl_rupay , icici_virtual , corporate yes in cards o buy kare aur istemal kare for fast results.
-
-All users ki validity bhi 2 days extend ki gayi hai..
