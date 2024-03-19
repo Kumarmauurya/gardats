@@ -1,25 +1,9 @@
-Proxifier aap gadar ke sath istemal kar sakte hai.... aws me hang issue ko fix kar diya gaya hai... Phonepe upi bypass me Ipayupi ko fix aur fast kar diya gaya hai...... Phonepe Gateway me aane wale error ko solve kar diya gaya hai ap freecharge upi bypass ko phonepe gateway me save karke use kar sakte hai.
+SBI aur HDFC issue ko fix kar diya gaya hai ap befikar hokar all login me use kar sakte hai.
 
-Vpn only booking ke ime work karega yani sirf booking form hi blocked vps me vn se login honge baki time ye unactive rahega.
+HDFC_DC from IPAY ke bug ko solve kar diya gaya hai.
 
-1 form ke 10 pair open kar sakte hai apse request hai all login mix hi login kare app , app2 , web and super ye sare login ap mix login kare.
+Phonpe_Bypass ko istemal kare ye pehle se fast kiya gaya hai.
 
-Dear users apse request hai ap alag alag upi gateway ka istemal kare jaise agar apne ek ticket Phonepe lagay hai to dusra razorpay lagaye ya eazebuzz upi lagaye ya ap cashfreeupi lagaye ya fir Ipayupi ya ap HDFCUPI laga sakte hai jisse apka booking ka chance jada hoga isliye har form ke liye alag alag gateway ka istemal kare.
+super login optmize kiya gaya hai ap users se request hai all login ko mix karke login kare ise apke ticket sucess ke chance jada honge.
 
-netbanking me ap ek form hdfc_nb se laga sakte hai aur dusra hdfc_dc agar ap hdfc dc use kar rahe hai to ap first form ko hdfc dc from ipay par tick kar de.
-
-HDFC_NB users data me jakar hdfc_nb from razorpay par tick kare aur use kar sakte hai.
-
-Easy form ke liye ap QR payment ka istemal kare jo sabse fast hai.
-
-Axis Bhim Bypass lagane se pehle us bank account ka balance check kar le software me options me bhim axis bypass me jaakar agar balance show ho raha hai to hi us bank se ticket lagaye.
-
-Phonpe Upi bypass ko pehle se bahot fast kar diya gaya hai ap ise use kar sakte hai.
-
-Freecharge me bhimupi ko aur fast kiya gaya hai ap jada se jada phonepe bypass aur freecharge bypass ka istemal kare.
-
-Coroporate yes rupay jo ke ek virutal card hai use bhi add kiya gaya hai is card ko ap online buy kar sakte hai.
-
-hdfc_dc ko web login me fix kiya gaya hai aur web login ko aur bhi fast kiya gaya hai.
-
-Ap virtual cards jaise nsdl , nsdl_rupay , icici_virtual , corporate yes in cards o buy kare aur istemal kare for fast results.
+Thanks!!!!
