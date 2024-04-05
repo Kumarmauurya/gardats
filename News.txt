@@ -1,18 +1,21 @@
-Fast booking ke liye gadar ko open karne ke baad us pc me aur koi bhi software na open kare other software wale apke pc me virus daal sakte hai jisse gadar ka performance down ho sakta hai.....Isliye apko yadi gadar pe form lagana hai to gadar ko open krne ke baad koi aur software bilkul na open kare.
+GADAR VPN IP KO IRCTC BOOKING TIME BLOCK KAR RAHI HAI HAMNE NEW IP KA ORDER LAGAYA HAI IP AJ DELIVER HOGI TO KAL SE APKO YE PROBLEM FACE NAHI HOGA ISLIYE AAJ VPN NA USE KARE.
 
-Web Login aap 55 se pehle login kar de isse web login fast server se login hoga
+Phonepeqr me kuch update hai ise use na kare aj ke update me ise fix kar diya jayega aap eazebuzz qr use kar sakte hai
 
-Gadar panel me technical issue aaya hua hai somee se , somee team ise jaldi hi fix kar degi kisi users ka koi bhi key ya kuch bhi chalna band nahi hoga users bindass kaam kare.. site ko kuch bhi ho apka software chalta rahega is error ko somee aaj theek kar degi
+All issues ko fix kar diya gaya hai Market ke rumours par dhyan na de.
 
-Dear Users ab season ki wajahse booking process site se slow hua hai isliye ap se request hai  all login mix kare web , app2 , app and sup super ka login jada kare aur station switch ap option use kar sakte hai jisse availability fast open hogi aur fast payment gateway ka istemal kare jisse booking fast ho.
+Agar aj 03/04/2024 software update nahi hua to ise important samajh kar updater run karke update kar le.
 
-Hamari team booking process ko fast kane par lagi hui hai sucess hone par apko update dediya jayega.
+Mobile Number Issue ko fix kar diya gaya hai.
 
-jin users ko unable to process ka error aa raha hai wo apne id ke password change kar le.
+Web Login ka pair ap 55 ke pehle login kar de taki wo fast server se login ho.
 
-Waiting Issue ko Fix kar diya gaya hai....
+Pair limit badha kar 10 kar di gayi hai apse request hai super ke pair kam se kam sleeper me 3-4 login kare and ac me app2 ko 3-4 pair login kare.
+
+Gadar VPN ko season ke liye aur fast kar diya gaya hai ap jitne chahe utne form book kar sakte hai slot 1 and 2 par.
 
 
-Most fast sucess gateway only SBI jo users ne sbi bypass nahi kiya wo ise bypass karke use kare.
+vps ke compitability issue ko bhi fix kar diya gaya hai..
 
-More special updates coming soon for season stay connected!!
+New update coming soon thanks for coperation!!!
+
