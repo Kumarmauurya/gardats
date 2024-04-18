@@ -1,0 +1,42 @@
+Agar software update nahi hua hai to updater se update jarur kar le -- 18/04/2024.
+
+VPN login 55 ke baad hi hoga usse pehle login nahi hoga isliye all users apka sara pair 55 ke baad hi login kare.
+
+Advance Payment Option add kiya gaya hai more details ke liye option me jakar Steps of adv payment par details dekhe.
+
+Is feature ke jariye jo train ka booking ap kar rahe hai us train me agar ek din pehle me waiting avl hai to aap pehle hi payment kar sakte hai 8am ya 9 am fir ap jab 10 baje ya 11 baje us train ka booking karenge to payment nahi hoga direct final hit hoga 5sec countdown par.
+
+in SImple words Advance payment bus ap steps par dhyan de aur dhyan purwark istemal kare hamari team season ke liye nayi nayi cheeze khoj rahi hai jo gadar team ap tak pahochayegi bus apse request hai ap hamara saath de.
+
+Opening booking ke liye new update dala gaya hai agar booking 8 baje nahi khulti hai aur error ataa hai train cancelled ya booking not allowed ka to apka software logout nahi hoga wo availbilty hit karta rahega jab tak us train me seat na aaye ya aap use manually kat na kar de.
+
+((Market ke kisii bhi rumours par dhyan na de ye sb sirf gadar ki market todne ke liye kiya jaa raha hai kyuki hamare dushman ke andar jitna takat tha wo laga chuka hai ye hamara apse wada hai apka software open hona aur chalna kabhi band nahi hoga chahe hame iske liye software ko offline kyu na karna pade ap users ka nuksan ham nahi hone denge--thanks for coperation))
+
+ALl users software jarur update kare agar apko lagta hai apka software update nahi hua hai to ek baar updater run kar le jisse apko latest version ki files mil jaye.
+
+SBI AUR HDFC NETBANKING KO SAHI KAR DIYA GAYA HAI AP LOG KA SOFTWARE 16APR KO AGAR AUTO UPDATE NAHI HUA HAI TO UPDATER SE JARUR RUN KAR LE.
+
+MARKET KE KISI BHI RUMOURS PAR DHYAN NA DE KUCH KUTTE HAI JO BARABARI NAHI KAR PAA RAHE HAI TO BHOK RAHE AP INHE BHOKNE DIJIYE AUR APNE KAAM ME MANN LAGAYE GADAR TEAM APKE SAATH HAI HAR UPDATE APKO TIME TO TIME DIYA JAYEGA.
+
+GADAR OPEN KARNE KE BAAD US PC ME KOI DUSRA SOFTWARE NA OPEN KARE ISSE APKI BOOKING ME PROBLEM AA SAKTI HAI YA APSE REQUEST HAI JIS PC ME GADAR USE KAR RAHE HAI USME DUSRA KOI SOFTWARE INSTALL NA KARE.
+
+All Issues ko fix kar diya gaya hai ap befikar hokar software use kare apko software use karne me koi dikkat nahi ayegi ye guarantee gadar team ki hai gadar ek highly advanced software hai agar gadar ke server me koi bhi dikkat ayega apka software turant offline open ho jayega taki apka kaam na ruke aur aap booking kar paye.
+
+Hamesha orignal domain se updater ya file download kare --- https://www.gadarts.com  ,,,   https://www.gadarpanel.com/    ,,, https://www.tvalidation.com/....
+
+Agar apko koi bhi dikkat aaye to aap gadar updater download kare aur usko apne folder me daal kar run kar le isse apka software update ho jayega.
+
+Paytm Upi Bypass coming soon....  aur season ke liye dhamakedar update coming soon.
+
+Disha login fir se start kar diya gaya hai disha login karne ke liye option me jakar disha on/off par tick kar de ye tick karne se jab ap app2 login karenge to waha par option ayega ki ap disha login karna chahte hai ya nahi.  DIsha login ko hamne fast working kiya hai isse aap 1-1.5min tak tkt book kar sakte hai ye fully bypass hai sirf apko login ke liye koi bhi mobile number dal kar login karna hoga ek pair disha login bhi aap kare.
+
+NEW PREMIUM PAYMENT GATEWAY ADDED -- PAYUUPIJUSPAY ONLY WORK IN APP,APP2 AND SUPER LOGIN.  is gateway me ap apni freecharge bypass upi , axis bypass upi and phonepe bypass upi use kar sakte hai
+
+PHONEPEQR SAHI KAR DIYA GAYA HAI.
+
+ADD IRCTC BULK ID KO ADD KIYA GAYA HAI.
+
+Pair limit badha kar 10 kar di gayi hai apse request hai super ke pair kam se kam sleeper me 3-4 login kare and ac me app2 ko 3-4 pair login kare.
+
+New update coming soon thanks for coperation!!!
+

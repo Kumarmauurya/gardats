@@ -1,21 +1,8 @@
-GADAR VPN IP KO IRCTC BOOKING TIME BLOCK KAR RAHI HAI HAMNE NEW IP KA ORDER LAGAYA HAI IP AJ DELIVER HOGI TO KAL SE APKO YE PROBLEM FACE NAHI HOGA ISLIYE AAJ VPN NA USE KARE.
-
-Phonepeqr me kuch update hai ise use na kare aj ke update me ise fix kar diya jayega aap eazebuzz qr use kar sakte hai
-
-All issues ko fix kar diya gaya hai Market ke rumours par dhyan na de.
-
-Agar aj 03/04/2024 software update nahi hua to ise important samajh kar updater run karke update kar le.
-
-Mobile Number Issue ko fix kar diya gaya hai.
-
-Web Login ka pair ap 55 ke pehle login kar de taki wo fast server se login ho.
-
-Pair limit badha kar 10 kar di gayi hai apse request hai super ke pair kam se kam sleeper me 3-4 login kare and ac me app2 ko 3-4 pair login kare.
-
-Gadar VPN ko season ke liye aur fast kar diya gaya hai ap jitne chahe utne form book kar sakte hai slot 1 and 2 par.
+apki file updated nahi hai isliye aap gadarts.com ya tvalidation.com se gadar updater download kare aur use apne gadar ke folder me rakh kar update kare....
 
 
-vps ke compitability issue ko bhi fix kar diya gaya hai..
+News For Punch Devloper :-  Tmne jise apna baap banaya hai wo kisi ka saga nahi hai isse nuksan sirf tmhara hai market me apne naye paapa ki details pata kar lo wo sirf logo ko hatana janta hai aur aaj tm uske sage ho kuch nahi kar pauge lo hila ke gira diya tmhare gadar patch par.
 
-New update coming soon thanks for coperation!!!
+Naye baap mat banau purane ke saath dhoka hoga aur baap hi banana to acche insan ko banau naye ho market me kamau uske chakkar me padoge nuksan tmhara hoga.
 
+Thanks!!!
