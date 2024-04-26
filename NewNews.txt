@@ -1,7 +1,11 @@
+
+gar aj apka 26/04/2024 software update nahi hua hai to ise updater se jarur update kar le.
+CLose issue ko hamne apne taraf se solve kar diya hai agar fir bhi ksii user ka close ho raha hai wo turant apke logs folder ka zip bana kar hame send kare apne seller dwarra.
+Bhimupi bypass ke 24 hours baad limit active hoti hai isliye after 24hours ap perfect transaction kar payenge npci dwara kuch limit hoti jisse aap 5k tak 2-3 transaction hi kar payenge.
+
 Bhim Axis Bypass fir se start ho gaya hai all users jinka bypass nahi hai wo turant bypass kar le kyuki ye kabhi bhi band ho sakta hai isliye aap jald se jald bypass kare aur ticket booking ka maja le.
 
-Software auto clouse jin users ko hua hai wo issue solve kar diya gaya hai koi bhi user gadar open karne ke baad us pc me koi aur software open na kare.
-Agar aj apka 22/04/2024 software update nahi hua hai to ise updater se jarur update kar le.
+Importan Request--- all pair ko ek saath na login kare har pair ke beech 10-15sec ka gap dekar login kare.
 
 VPn login 55 ke baad start hoga isliye ap all login 55 ke baad hi kare.
 
