@@ -1,4 +1,5 @@
-Agar 2/05/2024 apka software update nahi hua hai to updater run karke ise update jarur kar le.
+Fast Booking ke liye har form ka minimum 1 pair web login jarur kare aur har pair login ke bech me 30 sec ka gaping rakhe isliye ap login ya auto login option use kare aur sare form 50 par hi login kar de.
+
 
 Super login ke pair ap kam se kam 3 kare har form kare for faster results.
 
