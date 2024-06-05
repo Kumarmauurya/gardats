@@ -1,5 +1,50 @@
-Fast Booking ke liye har form ka minimum 1 pair web login jarur kare aur har pair login ke bech me 30 sec ka gaping rakhe isliye ap login ya auto login option use kare aur sare form 50 par hi login kar de.
+((Old Update server pe daal diya gaya hai jisko issue aa raha hai wo updater run kare jinhe koi issue nahi hai wo updated file hi use kare for best results.))
 
+
+Ticket Menu me check stn frm trn no option diya gaya hai usme ap train number enter karke station names dekh sakte hai jisse yesterday me booking hui hai.
+
+Booking nto allowed issue ko fix kiya gaya all pair me ab apki window agar white hoti hai to us pair par booking not allowed nahi aayega.
+
+Login karne par message show hoga 100% booking not allowed bypassed ya 80% bypassed agar 100% show hua to apka us window par not allowed nahi hoga.
+
+All pair mix karke login kare.
+
+Bhim Sbi Upi Bypass Update kar diya gaya hai Bypass menu me jakar bypass kar le aur details step ko dhyan se padhe. FIlhal one time par ek hi ticket lagaye jaldi hi ise multiple kar diya jayega.
+
+Ticket menu me check booking not allowed option diya gaya hai isse ap jo ticket lagane jaa rahe hai uspar check kar sakte hai booking not allowed issue.
+
+Options me Key Infor /version check se ap dekh sakte hai apka software upto date hai ya nahi agar apka software update nahi hai to waha par update now button par click kare.
+
+data me station switch on and auto login on not allowed par tick karke booking kare.
+
+app login and web login me if apki window white hoti hai to us pair me booking not allowed 98% nahi ayega.
+
+other pair ke liye station switch option ko tick rakhe.
+
+26/05 ko agar apka software update nahi hua hai to ise update jarur kar le booking process fast kiya gaya hai.
+
+
+Newhdfc & HDFC_NB Bypass issue theek kar diya gaya hai
+
+Software open issue jin logo ko ho raha tha o issue solve kar diya gaya hai.
+
+Very Important Vpn pair ko aap 58 par hi login click kare usse pehle karne par apka process slow hoga kyuki hamne hamari dedicated ip ko secure kiya hai jo sirf 58 pe active hoti hai isliye login button par click 58 par hi kare.
+
+Optimize 2 ka option add kiya gaya hai isse ek baar optimize jarur kare dhyan rakhe ye option normal time par kare booking time par optimize 2 na kare.
+
+Sbi_upi BYpass under testing hai ise abhi use na kare update hone par inform kar diya jayega.
+
+Jin users ko freecharge bypass karne me dikkat ho raha hai wo pehle registration freecharge apk mobile par kare waha balance check kare aur fir mobile se uninstall kar de . fir gadar me bypass kare bypass ho jayega.
+
+Freecharge bypass ko sahi kar diya gaya hai ab aap bypass kar sakte hai.
+
+Phonepe bypass issue fixed kiya gaya hai bypass karne ke liye gadarts se ap phonepe sms uploader download kar le.
+
+next update me new bypass update diya jayega.
+
+PAYUUPIJUSPAY KO OPTIMIZE KIYA GAY HAI.
+
+Fast Booking ke liye har form ka minimum 1 pair web login jarur kare aur har pair login ke bech me 30 sec ka gaping rakhe isliye ap login ya auto login option use kare aur sare form 50 par hi login kar de.
 
 Super login ke pair ap kam se kam 3 kare har form kare for faster results.
 
