@@ -1,5 +1,10 @@
-((Old Update server pe daal diya gaya hai jisko issue aa raha hai wo updater run kare jinhe koi issue nahi hai wo updated file hi use kare for best results.))
+Disha Login ko optimize kiya gaya hai ek pair jisme apko booking not allowed ka issue lagta hai usko disha login  jarur kare yadi disha me koi booking fail hoti hai to uski history jarur check kare.
 
+JIs window me 80% booking not allowed bypassed show hota tha uski accuracy ko 99% kar diya gaya hai ab us window par bhi aapka booking not allowed nahi hoga jaldi hi ham all route par booking not allowed bypass kar denge...DIsha login ka bug fix kiya gaya hai ap log ek pair disha login jarur kare jis route par apki window white nahi hoti hai.
+
+Kuch fake screenshot bhej kar market me users ko daraya jaa raha hai aise fake screenshot ko ignore kare ye wahi log hai jinse software update nahi ho raha hai to ye neechta kar rahe hai ignore kare aisa koi bhi dikkat gadar me nahi hai gadar ek highly protected software hai.
+
+Add Ticket me booking not allowed check karne ka option diya gaya hai aap form save karte wakt ye check kar sakte hai.
 
 Ticket Menu me check stn frm trn no option diya gaya hai usme ap train number enter karke station names dekh sakte hai jisse yesterday me booking hui hai.
 
