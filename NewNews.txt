@@ -1,3 +1,11 @@
+EK Id ko multiple jagah use karne walo be alert apka software peak time par auto close ho jayega.
+
+Station Switch option ko in karne par aap KM range set kar sakte hai by default KM hamne 150Km set kiya hai option use karne se pehle dhyan purwark padh le.
+
+Booking process optimize kiya gaya hai jin users ko payment par unable to process ho raha tha o user us id ka password change kar le wo id black listed ho chuki hai.
+
+SBI Netbanking ko app login me aur bhi fast kiya gaya hai.
+
 Disha Login ko optimize kiya gaya hai ek pair jisme apko booking not allowed ka issue lagta hai usko disha login  jarur kare yadi disha me koi booking fail hoti hai to uski history jarur check kare.
 
 JIs window me 80% booking not allowed bypassed show hota tha uski accuracy ko 99% kar diya gaya hai ab us window par bhi aapka booking not allowed nahi hoga jaldi hi ham all route par booking not allowed bypass kar denge...DIsha login ka bug fix kiya gaya hai ap log ek pair disha login jarur kare jis route par apki window white nahi hoti hai.
