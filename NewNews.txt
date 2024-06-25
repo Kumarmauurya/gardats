@@ -1,75 +1,22 @@
+*****************Read Carefully*********************
+
+Station switch popup ko hata diya gaya hai station switch option apne risk par hi use kare.
+
+Jispar booking not allowed ka issue us form ka ek pair disha login kare aur disha login me ap freecharge , axis and sbi upibypass bhi use kar sakte hai
+
+Disha Login ke final step ko optimize kiya gaya hai agar fir bhi apko booking failed aataa hai to history jarur check kare.
+
+Station switch only app and web login me hi work karta hai other login me koi bhi station switch nahi hota isliye ap all login mix karke login kare aur web login jada kare
+
+Pair ko 10 se 12 kar diya gaya hai taki ap web login jada kar sake jis form par booking not allowed ane ka risk ho ap us form ka ek window disha login kare yadi disha login booking fail show karta hai to pehle uski history check kare.
+
 EK Id ko multiple jagah use karne walo be alert apka software peak time par auto close ho jayega.
 
-Station Switch option ko in karne par aap KM range set kar sakte hai by default KM hamne 150Km set kiya hai option use karne se pehle dhyan purwark padh le.
+HDFC_Nb bypass me jin users ko issue tha usko fix kar diya gaya hai.
 
-Booking process optimize kiya gaya hai jin users ko payment par unable to process ho raha tha o user us id ka password change kar le wo id black listed ho chuki hai.
+Gadar team jaldi hi apko all trains ke booking not allowed issue ko fix karke update dedegi almost routes ka booking not allowed hamne bypassed kar diya hai kuch route ka update apko jaldi hi final testing ke baad mil jayega.
 
-SBI Netbanking ko app login me aur bhi fast kiya gaya hai.
+Apse request hai apne pc me crack software jo haal hi me naye aaye hai aur kab tak rahenge ye ap bhi jante hai aise software apne pc me install na kare inhe turant delete kar de isse apka gadar ka performance weak aur slow ho sakta hai.
 
-Disha Login ko optimize kiya gaya hai ek pair jisme apko booking not allowed ka issue lagta hai usko disha login  jarur kare yadi disha me koi booking fail hoti hai to uski history jarur check kare.
-
-JIs window me 80% booking not allowed bypassed show hota tha uski accuracy ko 99% kar diya gaya hai ab us window par bhi aapka booking not allowed nahi hoga jaldi hi ham all route par booking not allowed bypass kar denge...DIsha login ka bug fix kiya gaya hai ap log ek pair disha login jarur kare jis route par apki window white nahi hoti hai.
-
-Kuch fake screenshot bhej kar market me users ko daraya jaa raha hai aise fake screenshot ko ignore kare ye wahi log hai jinse software update nahi ho raha hai to ye neechta kar rahe hai ignore kare aisa koi bhi dikkat gadar me nahi hai gadar ek highly protected software hai.
-
-Add Ticket me booking not allowed check karne ka option diya gaya hai aap form save karte wakt ye check kar sakte hai.
-
-Ticket Menu me check stn frm trn no option diya gaya hai usme ap train number enter karke station names dekh sakte hai jisse yesterday me booking hui hai.
-
-Booking nto allowed issue ko fix kiya gaya all pair me ab apki window agar white hoti hai to us pair par booking not allowed nahi aayega.
-
-Login karne par message show hoga 100% booking not allowed bypassed ya 80% bypassed agar 100% show hua to apka us window par not allowed nahi hoga.
-
-All pair mix karke login kare.
-
-Bhim Sbi Upi Bypass Update kar diya gaya hai Bypass menu me jakar bypass kar le aur details step ko dhyan se padhe. FIlhal one time par ek hi ticket lagaye jaldi hi ise multiple kar diya jayega.
-
-Ticket menu me check booking not allowed option diya gaya hai isse ap jo ticket lagane jaa rahe hai uspar check kar sakte hai booking not allowed issue.
-
-Options me Key Infor /version check se ap dekh sakte hai apka software upto date hai ya nahi agar apka software update nahi hai to waha par update now button par click kare.
-
-data me station switch on and auto login on not allowed par tick karke booking kare.
-
-app login and web login me if apki window white hoti hai to us pair me booking not allowed 98% nahi ayega.
-
-other pair ke liye station switch option ko tick rakhe.
-
-26/05 ko agar apka software update nahi hua hai to ise update jarur kar le booking process fast kiya gaya hai.
-
-
-Newhdfc & HDFC_NB Bypass issue theek kar diya gaya hai
-
-Software open issue jin logo ko ho raha tha o issue solve kar diya gaya hai.
-
-Very Important Vpn pair ko aap 58 par hi login click kare usse pehle karne par apka process slow hoga kyuki hamne hamari dedicated ip ko secure kiya hai jo sirf 58 pe active hoti hai isliye login button par click 58 par hi kare.
-
-Optimize 2 ka option add kiya gaya hai isse ek baar optimize jarur kare dhyan rakhe ye option normal time par kare booking time par optimize 2 na kare.
-
-Sbi_upi BYpass under testing hai ise abhi use na kare update hone par inform kar diya jayega.
-
-Jin users ko freecharge bypass karne me dikkat ho raha hai wo pehle registration freecharge apk mobile par kare waha balance check kare aur fir mobile se uninstall kar de . fir gadar me bypass kare bypass ho jayega.
-
-Freecharge bypass ko sahi kar diya gaya hai ab aap bypass kar sakte hai.
-
-Phonepe bypass issue fixed kiya gaya hai bypass karne ke liye gadarts se ap phonepe sms uploader download kar le.
-
-next update me new bypass update diya jayega.
-
-PAYUUPIJUSPAY KO OPTIMIZE KIYA GAY HAI.
-
-Fast Booking ke liye har form ka minimum 1 pair web login jarur kare aur har pair login ke bech me 30 sec ka gaping rakhe isliye ap login ya auto login option use kare aur sare form 50 par hi login kar de.
-
-Super login ke pair ap kam se kam 3 kare har form kare for faster results.
-
-Booking se pehle ccleaner run kar le.
-
-Ek id ko multiple pc me use na kare isse apka software booking time par bina koi warning ke exit ho jayega.
-
-Apse request hai aap fast upi payment gateway jaise PAYUUPIJUSPAY , CASHFREEUPI , FASTUPI , EAZEBUZZUPI in upi ka istemal kare in gateway par load nahi hai isse apko results fast milega.
-
-PAYYUPIJUSPAY AUR CASHFREEUPI ME AP APNA AXIS, PHONEPE , AUR FREECHARGE KA UPI SAVE KAR SAKTE HAI YE SAVE AUR USE KARNE SE APKA UPI IN GATEWAY PAR BYPASS RAHEGA.
-
-More Update coming soon....
-
-Thanks for Co-operation,
+Thanks for Support,
 Gadar Team.
