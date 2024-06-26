@@ -1,6 +1,9 @@
 *****************Read Carefully*********************
+Freecharge bypass issue ko fix kar diya gaya hai.
 
-Station switch popup ko hata diya gaya hai station switch option apne risk par hi use kare.
+Disha login ko aur bhi optimize kiya gaya hai ek form ke liye disha login ek hi pair kare.
+
+Station switch popup agar apko chaiyye to ap data menu me jakar show stn form par tick kar de ye tick karne se apka station change ka pop up form khulega.
 
 Jispar booking not allowed ka issue us form ka ek pair disha login kare aur disha login me ap freecharge , axis and sbi upibypass bhi use kar sakte hai
 
