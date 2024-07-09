@@ -1,4 +1,15 @@
 *****************Read Carefully*********************
+HDFC_DC KO BY DEFAULT IPAY SERVER SE JOD DIYA GAYA HAI AB APKO TICK KARNE KI JARURAT NAHI HAI AGAR ICICI GATEWAY WAPAS ONLINE AATA HAI TO HDFC_DC KO ICIC KE THROUGH KAR DIYA JAYEGA JIN USERS KA HDFC_DC WORK NAHI KAR RAHA HAI WO EK BAAR EK NORMAL BOOKING IRCTC WEBSITE SE KARKE DEKH LE IPAY KE THROUGH AGAR FIR BHI APKO ERROR AA RAHA HAI TO APKA CARD DETAILS APKE SELLER DWARA HAME SEND KAR KARE HAM ISSUE FIX KAR DENGE.
+
+MINOR BUGS FIXED AND BOOKING OPTIMIZED.
+
+Jo users HDFC_DC use karna chahte hai wo Data option me jakar hdfc dc from ipay ko jarur tick kar le kyuki hdfc_dc ici gateway dwara working tha wo abhi irctc site par offline hai to jab tak ye gateway online nahi hota hai aap users hdfc dc from ipay se use kare.
+
+
+HDFC_NB use na kare kyuki hdfc bank ne otp mandatory kiya hai security question wale options ko hata diya hai ham jaldi hi iska solution apko update dwara dedenge.
+
+Jin users ko logout issue face ho raha hai unse request hai apki irctc id ka password change kare jis ip par ye issue ho raha hai wo ip change kare aur very important ek ip par only 4 pair hi login kare isse jada login karenge apka kaam kharab hoga.
+
 Freecharge bypass issue ko fix kar diya gaya hai.
 
 Disha login ko aur bhi optimize kiya gaya hai ek form ke liye disha login ek hi pair kare.
