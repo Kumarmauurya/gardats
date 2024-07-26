@@ -1,34 +1,17 @@
 *****************Read Carefully*********************
-CashfreeUpi , HDFCUPI , AIRPAY & EAZEBUZZ QR and UPI ke issues ko fix karke update kar diya gaya hai..ye Unique aur exclusive upi hai ap inka istemal jada se jada kare....in gateway me ap freecharge upi bypass , axis and sbi upi bypass use kar sakte hai sirf apko ye gateway select karke apki bypass ki hui upi save karni hogi.
 
-Disha Login issue ko fix karke update kar diya gaya hai ek pair aap disha login bhi kar sakte hai.
+Logout issue ko site ko dekhte hue fix kiya gaya hai ap users ek ip par only 3 pair hi login kare.
 
+Form save me ap users se request hai aap mobile number genuine dale jisse verification proper ho jaye.
 
-HDFC_NB use na kare kyuki hdfc bank ne otp mandatory kiya hai security question wale options ko hata diya hai ham jaldi hi iska solution apko update dwara dedenge.
+Har id ka password time to time change kiya kare jis id par black list show hota hai uska password jarur change kare.
 
-Jin users ko logout issue face ho raha hai unse request hai apki irctc id ka password change kare jis ip par ye issue ho raha hai wo ip change kare aur very important ek ip par only 4 pair hi login kare isse jada login karenge apka kaam kharab hoga.
+Update ke logs ko dekhte hue time to time update kiya jayega all pair login mix karke login kare App , web , app2 and super 1 pair ap disha login kare aur yadi disha login par fail ata hai to irctc id jarur dekhe.
 
-Freecharge bypass issue ko fix kar diya gaya hai.
+station switch na kare kyuki irctc ki taraf se booking not allowed pura tarah se sahi kar diya gaya hai.
 
-Disha login ko aur bhi optimize kiya gaya hai ek form ke liye disha login ek hi pair kare.
+Agar ap jada form lagate hai to ek saath sare form ko bilkul login na kare har login ke beech me aap 30 sec ka difference jarur de ek saath har pair login karne apko logout issue face karna pad sakta hai.
 
-Station switch popup agar apko chaiyye to ap data menu me jakar show stn form par tick kar de ye tick karne se apka station change ka pop up form khulega.
-
-Jispar booking not allowed ka issue us form ka ek pair disha login kare aur disha login me ap freecharge , axis and sbi upibypass bhi use kar sakte hai
-
-Disha Login ke final step ko optimize kiya gaya hai agar fir bhi apko booking failed aataa hai to history jarur check kare.
-
-Station switch only app and web login me hi work karta hai other login me koi bhi station switch nahi hota isliye ap all login mix karke login kare aur web login jada kare
-
-Pair ko 10 se 12 kar diya gaya hai taki ap web login jada kar sake jis form par booking not allowed ane ka risk ho ap us form ka ek window disha login kare yadi disha login booking fail show karta hai to pehle uski history check kare.
-
-EK Id ko multiple jagah use karne walo be alert apka software peak time par auto close ho jayega.
-
-HDFC_Nb bypass me jin users ko issue tha usko fix kar diya gaya hai.
-
-Gadar team jaldi hi apko all trains ke booking not allowed issue ko fix karke update dedegi almost routes ka booking not allowed hamne bypassed kar diya hai kuch route ka update apko jaldi hi final testing ke baad mil jayega.
-
-Apse request hai apne pc me crack software jo haal hi me naye aaye hai aur kab tak rahenge ye ap bhi jante hai aise software apne pc me install na kare inhe turant delete kar de isse apka gadar ka performance weak aur slow ho sakta hai.
 
 Thanks for Support,
 Gadar Team.
