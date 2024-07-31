@@ -1,5 +1,7 @@
 *****************Read Carefully*********************
 
+All users version dekh le version 1.0.23 ya usse jada hona chaiyye agar isse kam hai to ap turant updater se update kare.
+
 Agar payment par apki id par Blacklist id ka message aa raha hai iska matlab hai wo id apki irctc dwara block ho chuki us id se ap manually ticket try karke dekh sakte hai ki us id par ap ticket ka payment tak nahi ja payenge isliye jo id blacklisted show hoti hai ap only us id ka password change kare isse apki wo id active ho jayegi aur apki wo id se ap payment kar payenge.
 
 Jo users kehte hai ye error only gadar me hai unse mai request karunga jab bhi apko ye error show ap turant us id se irctc login kare aur ticket booking kare and jab ap koi gateway selecte karenge apko turant error show hoga wo errro tabhi solve hoga jab ap us id ka password badlenge isliye add irctc id me only black list id ka password change option diya gaya hai
