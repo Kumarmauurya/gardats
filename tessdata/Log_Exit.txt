@@ -1,0 +1,1 @@
+Exit reason: software with window name ilspy detected.
